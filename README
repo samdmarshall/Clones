@@ -1,7 +1,7 @@
 Clones is a Textual plugin that will detect clone users on the current channel. It will return the number of clones, and format as 'nick!username@address' and list all potential clones.
 
 
-Copyright (c) 2010-2012, Sam Marshall
+Copyright (c) 2010-2013, Sam Marshall
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
